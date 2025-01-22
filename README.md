@@ -1,7 +1,7 @@
 
-# Every.io engineering challenge
+# ---- engineering challenge
 
-The purpose of this code is to serve as a solution to Every.io's engineering challenge. I understand that there are some points that could be improved, but given the nature of the challenge, I chose to follow a simplistic approach focusing on code readability and organization of elements.
+The purpose of this code is to serve as a solution to ---- engineering challenge. I understand that there are some points that could be improved, but given the nature of the challenge, I chose to follow a simplistic approach focusing on code readability and organization of elements.
 
 ## Tech Stack
 
